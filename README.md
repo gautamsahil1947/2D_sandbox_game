@@ -6,3 +6,6 @@ This is his journey
 
 At the end, he seeks the wisdom to not end up like those zombies,
 and maybe help them become humans too.
+
+
+the game uses procedural generation of terrain, or so I want it to use.
